@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 ********************* 0x04. C - More functions, more nested loops
 #####Requirements
 #General
+=======
+##inside directory of variables and if else while##
+
+                                /** Requirements */
+//////////////////////////////////////* General *////////////////////////////////////////
+>>>>>>> 310fb7a0c526d798c5754f8f25679b5b95addcf6
 * Allowed editors: vi, vim, emacs
 * All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 * All your files should end with a new line
@@ -10,7 +17,16 @@
 * No more than 5 functions per file
 * You are not allowed to use the standard library. Any use of functions like printf, puts, etc… is forbidden
 * You are allowed to use _putchar
+<<<<<<< HEAD
 * You don’t have to push _putchar.c, we will use our file. If you do it won’t be taken into account
 * In the following examples, the main.c files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own main.c files at compilation. Our main.c files might be different from the one shown in the examples
 * The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called main.h
 * Don’t forget to push your header file
+=======
+- You don’t have to push _putchar.c, we will use our file. If you do it won’t be taken into account
+* In the following examples, the main.c files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own main.c files at compilation. Our main.c files might be different from the one shown in the examples
+* The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called main.h
+* Don’t forget to push your header file
+
+**********************************************************************************************************************************************
+>>>>>>> 310fb7a0c526d798c5754f8f25679b5b95addcf6
