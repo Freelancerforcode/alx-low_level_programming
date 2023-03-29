@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * void - swap_int(int *a, int *b);
+ *swap_int - swap two integers
  * @a : Point integer to be swaped with a
  * @b : Point integer to be swaped with b
- * Retrun: (void)
+ * Retrun: void
  */
 void swap_int(int *a, int *b);
 {
