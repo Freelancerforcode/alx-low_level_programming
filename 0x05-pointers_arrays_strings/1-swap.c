@@ -1,13 +1,13 @@
 #include <stdio.h>
 /**
  *swap_int - swap two integers
- * @a : Point integer to be swaped with a
- * @b : Point integer to be swaped with b
- * Retrun: void
+ *@a: Pointer to the integer to be swaped with a
+ *@b: Pointer to the interget to be swaped with b
+ *Return: void
  */
-void swap_int(int *a, int *b);
+void swap_int(int *a, int *b)
 {
-	int c = *a;
-	*a = *b;
-	*b = c;
+int c = *a;
+*a = *b;
+*b = c;
 }
