@@ -1,25 +1,4 @@
 #include <stdio.h>
-<<<<<<< HEAD
-
-/**
- * main - Prints the alphabet.
- *
- * Return: Always 0 (Success)
- */
-int main(void)
-{
-char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
-	int i;
-
-	for (i = 0; i < 52; i++)
-	{
-		putchar(alp[i]);
-	}
-	putchar('\n');
-	return (0);
-}
-
-=======
 /**
  * main - main block
  * Description:  prints the alphabet in lowercase,
@@ -49,4 +28,3 @@ int main(void)
 }
 Footer
 © 2023 GitHub, Inc.
->>>>>>> 310fb7a0c526d798c5754f8f25679b5b95addcf6
